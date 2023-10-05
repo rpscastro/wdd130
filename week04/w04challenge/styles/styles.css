@@ -1,0 +1,67 @@
+header h1 {
+    text-align: center;
+    font-family: Arial;
+    color: white
+}
+
+header h1:hover {
+
+    color: black;
+}
+
+
+
+header p {
+    text-align: center;
+    color: white;
+    margin: 0.5% auto;
+    width: 23%;
+    
+}
+
+header h3 {
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    
+    
+}
+
+main h3 {
+    text-align: left;
+    display: block;
+    margin: 0.51% auto;
+    font-family: Arial;
+    width: 22%;
+ 
+    
+}
+
+body {
+
+    background-color: #ff99bb;
+}
+
+
+footer p {
+    text-align: center;
+    font-family: Arial;
+    margin: 0% auto;
+    width: 18%;
+}
+
+
+img {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+main h1 {
+    width: 14%;
+    text-align: center;
+    margin: 1% auto;
+    color: white;
+   
+}
