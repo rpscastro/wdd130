@@ -1,0 +1,18 @@
+div {
+
+background-color: #666666;
+width: 1280px;
+
+
+}
+
+.circles img {
+    
+    border-radius: 50%;
+    border: 15px solid #4d4d4d ;
+    width: 270px;
+    height: 270px;
+    margin: 60px;
+  
+}
+
