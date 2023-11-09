@@ -175,6 +175,8 @@ footer a:hover {
     width: 100%;
 }
 
+
+
 footer p {
     font-size: 1.2em;
 } 
@@ -330,4 +332,62 @@ main section img {
         margin-top: 25px;
     }
 }
+
+.accordion {
+    background-color: #a6cfd5;
+    color: #26408b;
+    font-family: Rubik, Helvetica, sans-serif;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border-width: 2px;
+    border-color: #26408b;
+    text-align: left;
+    outline: none;
+    font-size: 22px;
+    transition: 0.4s;
+  }
+  
+.active, .accordion:hover {
+    background-color: #c2e7d9;
+  }
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    color:#26408b;
+    font-family: Rubik, Helvetica, sans-serif;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    }
+
+.FAQ{
+
+    margin: 60px;
+}
+
+.FAQ h2 {
+    color:#ffffff;
+    font-family:"Lobster",Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+.FAQ h4{
+    color:#ffffff;
+    font-family:"Lobster",Helvetica, sans-serif;
+    text-align: center;
+
+}
+
+#faq-img{
+
+    width: 100%;
+    margin-left:auto;
+    margin-right:auto;
     
+
+}
+
+
