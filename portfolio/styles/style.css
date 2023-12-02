@@ -126,7 +126,7 @@ h2 {
 }
 
 
-#textgroup1 {
+#motivation-txt {
 
     width: 100%;
     
@@ -134,16 +134,18 @@ h2 {
 
 }
 
-#imggroup1 {
+#twiststurnslife-img {
     width: 500px; 
     height: 500px; 
     float:right;
     margin-left: 30px;
+    margin-top: 30px;
+
     
   
 }
 
- #imggroup2 {
+ #rafael-castro-img {
 
     width: 400px; 
     height: 500px; 
@@ -152,7 +154,7 @@ h2 {
 
 }
 
-#textgroup2 {
+#organization-txt {
 
     width: 100%; 
    
@@ -165,5 +167,37 @@ main {
     margin-right: 30px;
     margin-top: 90px;
 
+}
 
+#mission-img {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+
+#bb-sede3-img {
+
+   
+    float:left;
+    margin-right: 30px;
+    width: 600px; 
+    height: 600px; 
+
+}
+
+#bb-facade-img {
+
+    width: 100%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
