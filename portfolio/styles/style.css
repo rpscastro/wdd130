@@ -201,3 +201,31 @@ main {
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+
+
+#books-img {
+
+   
+    float:left;
+    margin-right: 30px;
+    width: 350px; 
+    height: 350px; 
+
+}
+
+#uspLeste-img {
+  
+    float:right;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 390px; 
+    height: 293px; 
+
+}
+
+.top-h2{
+
+    padding-top: 30px;
+    
+}
